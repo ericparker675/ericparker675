@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="right">
+  🇺🇸
+</div>
 
-<!--
-**ericparker675/ericparker675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <!-- Replace the src URL below with any transparent GIF you want to feature -->
+  <img src="https://raw.githubusercontent.com/YusefB/YusefB/main/fish.gif" width="120" alt="Animated icon" />
+  <br><br>
 
-Here are some ideas to get you started:
+  <h2>eric parker</h2>
+  <hr width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p><b>computer science & engineering · systems infrastructure @ usf</b></p>
+
+  <p>
+    i like building fast software, automating infrastructure, and figuring out how systems work.<br>
+    my background includes linux cluster administration, ansible automation, and low-level programming.
+  </p>
+
+  <p><b>c · python · bash · ansible · linux</b></p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">linkedin</a>
+  </p>
+
+  <p><i>probably tinkering with a server cluster when i'm not here.</i></p>
+</div>
