@@ -1,12 +1,8 @@
-<div align="right">
-  🇺🇸
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/YusefB/YusefB/main/fish.gif" width="110" alt="Header GIF" />
   <br>
 
-  <h2>eric parker</h2>
+  <h1>eric parker</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=%24+whoami+%E2%86%92+computer+science+%40+usf;%24+focus+%E2%86%92+linux+clusters+%C2%B7+ansible+%C2%B7+programming" alt="Terminal Prompt" />
 
