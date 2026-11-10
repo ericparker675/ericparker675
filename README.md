@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YusefB/YusefB/main/fish.gif" width="110" alt="Header GIF" />
+<img src="jellyfish.gif" width="300" alt="ASCII Jellyfish" />
   <br>
 
   <h1>eric parker</h1>
